@@ -1,4 +1,4 @@
-<h1> Hello, Welcome to Pythakara World !!! </h1>
-<h2> Deploying DevOps pythakara Pipeline </h2>
-<h3> This is just for pythakara testing </h3>
-<h4> Myself pythakara </h4>
+<h1> Hello, Welcome to Pee kundi World !!! </h1>
+<h2> Deploying DevOps kundi pasanga Pipeline </h2>
+<h3> This is just for soothu testing </h3>
+<h4> Myself kundi </h4>
